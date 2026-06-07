@@ -8,7 +8,8 @@ A task management system built for Software Project Management course.
 - Project board tracking
 
 ## Team Members
-- Shahzad (hibbashahzad49-tech)
+- Hibba Shahzad (hibbashahzad49-tech)
+- Eman Fatima
 
 ## How to Run
 Clone the repository and open index.html in browser.
