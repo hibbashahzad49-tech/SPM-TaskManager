@@ -1,2 +1,7 @@
 # Task List
-Version A - Login Page, Database Setup
+
+## Final Version (Resolved)
+- Login Page
+- Database Setup
+- Home Page
+- Frontend Setup
